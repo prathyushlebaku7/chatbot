@@ -1,0 +1,4 @@
+streamlit 
+openai 
+gTTS 
+streamlit-mic-recorder
